@@ -1,0 +1,6 @@
+libmbedcrypto.so.3
+libmbedtls.so.12
+libmbedx509.so.0
+libsfml-network.so.2.5
+libsfml-system.so.2.5
+libSOIL.so.1
